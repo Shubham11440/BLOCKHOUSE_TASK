@@ -1,0 +1,11 @@
+# Ignore build artifacts
+/build/
+*.o
+
+# Ignore generated files
+*.csv
+*.exe
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
